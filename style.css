@@ -139,6 +139,7 @@ hr {
 }
 
 .prev-lunches {
+  font-variant-numeric: tabular-nums;
   list-style-type: disc;
   padding-left: 1rem;
 }
