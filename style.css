@@ -167,6 +167,10 @@ hr {
   padding-left: 1rem;
 }
 
+.prev-lunches > li + li {
+  margin-top: 0.5em;
+}
+
 .prev-lunches strong {
   min-width: 10em;
 }
